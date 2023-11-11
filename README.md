@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Aniketh Ganesh
 - 🚀 Studying Engineering Physics @ IITM
 - 🤖 Interested in Computer Architecture, VLSI, and Signal Processing
-- 🇮🇳 Currently working on projects in [Shakti, IITM]([url](https://shakti.org.in/)) to develop an indigenous microcprocessor
+- 🇮🇳 Currently working on projects in [Shakti, IITM](https://shakti.org.in/) to develop an indigenous microcprocessor
 - 🔭 Also working on Indian Astronomy
 - 📫 How to reach me: aniketh.ganesh@gmail.com
 <!--
