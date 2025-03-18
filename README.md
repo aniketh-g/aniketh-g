@@ -1,6 +1,6 @@
 ### Hi there, I'm Aniketh Ganesh
 - Interested in Computer Architecture, VLSI
-- Interned in Qualcomm and [Shakti, IITM](https://shakti.org.in/
+- Interned in Qualcomm and [Shakti, IITM](https://shakti.org.in/)
 
 - email: aniketh.ganesh@gmail.com
 <!--
