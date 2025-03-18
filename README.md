@@ -1,9 +1,8 @@
-### Hi there 👋, I'm Aniketh Ganesh
-- 🚀 Studying Engineering Physics @ IITM
-- 🤖 Interested in Computer Architecture, VLSI, and Signal Processing
-- 🇮🇳 Currently working on projects in [Shakti, IITM](https://shakti.org.in/) to develop an indigenous microcprocessor
-- 🔭 Also working on Indian Astronomy
-- 📫 How to reach me: aniketh.ganesh@gmail.com
+### Hi there, I'm Aniketh Ganesh
+- Interested in Computer Architecture, VLSI
+- Interned in Qualcomm and [Shakti, IITM](https://shakti.org.in/
+
+- email: aniketh.ganesh@gmail.com
 <!--
 **aniketh-g/aniketh-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
