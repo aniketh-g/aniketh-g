@@ -1,4 +1,5 @@
 ### Hi there, I'm Aniketh Ganesh
+- MSc Electrical Engineering, ETHZ'26 | BTech Engineering Physics, IITM'24
 - Interested in Computer Architecture, VLSI
 - Interned in Qualcomm and [Shakti Microprocessors](https://shakti.org.in/)
 
