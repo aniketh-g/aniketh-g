@@ -1,7 +1,7 @@
 ### Hi there, I'm Aniketh Ganesh
 - MSc Electrical Engineering, ETHZ'26 | BTech Engineering Physics, IITM'24
-- Interested in Computer Architecture, VLSI
-- Interned in Qualcomm and [Shakti Microprocessors](https://shakti.org.in/)
+- Interested in Computer Architecture & VLSI, Robotics, Astronomy, Sanskrit
+- Research projects in [Shakti Microprocessors](https://shakti.org.in/) and [Integrated Systems Laboratory](https://iis-projects.ee.ethz.ch/index.php?title=A_RISC-V_ISA_Extension_for_Parallel,_Cooperative_Execution_of_Integer_and_Floating-Point_Threads_(1M/1-2S))
 
 - email: aniketh.ganesh@gmail.com
 <!--
