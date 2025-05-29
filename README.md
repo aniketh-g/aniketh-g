@@ -2,8 +2,11 @@
 - MSc Electrical Engineering, ETHZ'26 | BTech Engineering Physics, IITM'24
 - Interested in Computer Architecture & VLSI, Robotics, Astronomy, Sanskrit
 - Research projects in [Shakti Microprocessors](https://shakti.org.in/) and [Integrated Systems Laboratory](https://iis-projects.ee.ethz.ch/index.php?title=A_RISC-V_ISA_Extension_for_Parallel,_Cooperative_Execution_of_Integer_and_Floating-Point_Threads_(1M/1-2S))
+- Interned at Qualcomm, Bangalore
 
+How to reach me:
 - email: aniketh.ganesh@gmail.com
+- LinkedIn: [aniketh-g](https://www.linkedin.com/in/aniketh-g-6b4872213/)
 <!--
 **aniketh-g/aniketh-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
